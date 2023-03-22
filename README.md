@@ -1,37 +1,16 @@
 # C_demo
 
 #### 介绍
-C学习过程的代码demo
+C语言学习中的代码demo
 
 #### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  1111
-2.  xxxx
-3.  xxxx
+project1文件夹下的.cpp介绍：
+1.array. 实现了一个变长数组，包含数组创建、释放、返回长度、返回对象、数组设置等功能
+2.common. 素数判断、最大公约数、整数逆序、水仙花数、数组元素删除等
+3.linkedlist. 实现了一个链表，包含链表和节点的定义、增加节点、删除节点、遍历节点、清空链表等操作
+4.my_string，实现字符串长度获取、字符串比较大小、字符串复制
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  VS环境下运行
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
